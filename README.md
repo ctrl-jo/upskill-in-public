@@ -4,6 +4,8 @@ A free learning kit for CS/IT (Computer Science / Information Technology) studen
 
 ## Why this exists
 
+![TikTok profile celebrating the milestone of 1,000 followers](./+1000Followers.PNG)
+
 This kit is a thank you for reaching 1000+ followers on TikTok. It gives you a place to start, practice, and show your progress one small step at a time.
 
 ## Who it is for

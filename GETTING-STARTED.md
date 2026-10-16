@@ -1,6 +1,6 @@
 # Getting Started (No experience needed)
 
-GitHub is a website for storing and sharing files. A repository (repo) is a project folder on that website. This kit is free; only Option A needs a GitHub account. Choose just one option below.
+GitHub is a website for storing and sharing files. A repository (repo) is a project folder on that website. This kit is free. Creating a template copy or a fork needs a GitHub account; downloading the ZIP or cloning this public repository does not. Choose just one option below.
 
 ## Option A: Use this template (recommended)
 

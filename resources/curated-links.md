@@ -35,3 +35,19 @@ These official and community resources are free to read. Optional certificates, 
 [Google Cloud documentation](https://cloud.google.com/docs) — Official Google Cloud service guides.
 
 [AWS documentation](https://docs.aws.amazon.com/) — Official AWS service guides.
+
+## Next steps and fundamentals certifications
+
+[React Learn](https://react.dev/learn) — Optional component-based frontend learning after JavaScript.
+
+[Node.js Learn](https://nodejs.org/en/learn) — JavaScript outside the browser for backend practice.
+
+[PostgreSQL tutorial](https://www.postgresql.org/docs/current/tutorial.html) — Relational data and SQL basics.
+
+[Flutter learning pathway](https://docs.flutter.dev/learn/pathway) — Official cross-platform beginner route.
+
+[React Native introduction](https://reactnative.dev/docs/getting-started) — Mobile development after JavaScript and React basics.
+
+[AWS CLF-C02 guide](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html) — Official Cloud Practitioner fundamentals scope.
+
+[Google Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader) — Official fundamentals certification page and study links; some linked training and exams may cost money.

@@ -10,7 +10,7 @@ No installation is needed to read the kit or write notes on GitHub. A ZIP copy n
 
 ## Which path should I pick first?
 
-Web development has an available roadmap and free beginner resources. Azure also has an available study route. The [choosing guide](start-here/choosing-your-path.md) helps you decide based on your interests.
+Web development, mobile development, and all three cloud providers have Available beginner roadmaps. Each starts with foundations and leads toward a choice of role or platform. The [choosing guide](start-here/choosing-your-path.md) helps you decide based on your interests.
 
 ## Can I study more than one path?
 
@@ -46,3 +46,15 @@ Yes. The kit is under the [MIT license](LICENSE). Your school's rules still appl
 ## Why are some folders empty or marked Coming soon?
 
 They reserve a consistent place for future examples. A `.gitkeep` is an empty placeholder file used to keep a folder in Git; it is not a lesson. Notes folders also have a README, so the placeholder is included for consistency. You can start with an Available roadmap while examples are being added.
+
+## Do I have to finish a roadmap in a fixed number of months?
+
+No. The checkpoints describe something you can explain or show. Time depends on your background and schedule; repeating a stage is normal. The role branches are choices, not a requirement to learn every tool.
+
+## Do I need a cloud certificate to continue?
+
+No. Azure Fundamentals (AZ-900), AWS Cloud Practitioner (CLF-C02), and Google Cloud Digital Leader are optional starting credentials with different emphases. The written project needs no paid exam or cloud account. Detailed role-based certification routes will be added in future updates.
+
+## Must my daily logs use Conventional Commits?
+
+No. The [commit convention](CONTRIBUTING.md) applies to contributions to this shared repository. Personal learning copies can use any clear save message.

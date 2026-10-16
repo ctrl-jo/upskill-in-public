@@ -31,13 +31,15 @@ Students and self-learners exploring software development, cloud engineering, an
 
 | Path | Status and details |
 | --- | --- |
-| Web development: JavaScript | Available — [path index](paths/README.md) |
+| Web development: foundations, frontend, backend | Available — [path index](paths/README.md) |
 | Cloud engineering: Microsoft Azure / AZ-900 | Available — [path index](paths/README.md) |
-| Mobile app development, Google Cloud Platform, AWS | Planned — [path index](paths/README.md) |
+| Mobile app development | Available — [path index](paths/README.md) |
+| AWS / Cloud Practitioner (CLF-C02) | Available — [path index](paths/README.md) |
+| Google Cloud / Cloud Digital Leader | Available — [path index](paths/README.md) |
 
 ## Updates and suggestions
 
-This kit will be updated regularly with new paths. New paths are announced on TikTok.
+This kit will be updated regularly with new paths, following foundations, checkpoints, and role-focused next steps. Detailed cloud role-based certification roadmaps and deeper role-focused projects are planned for future updates. New paths are announced on TikTok.
 
 1. Open this repository's [Issues page](https://github.com/ctrl-jo/upskill-in-public/issues).
 2. Select **New issue**, then **Suggest a path** (and **Get started** if shown).

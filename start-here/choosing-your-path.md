@@ -9,8 +9,8 @@
 | Interest | Path | Status |
 | --- | --- | --- |
 | Web pages and interactive tools | [Web development](../paths/software-development/web-development/README.md) | Available |
-| Phone apps | [Mobile app development](../paths/software-development/mobile-app-development/README.md) | Planned |
+| Phone apps | [Mobile app development](../paths/software-development/mobile-app-development/README.md) | Available |
 | How online services run | [Azure](../paths/cloud-engineering/microsoft-azure/README.md) | Available |
-| Exploring other cloud providers | [Google Cloud Platform](../paths/cloud-engineering/google-cloud-platform/README.md) or [AWS](../paths/cloud-engineering/aws/README.md) | Planned |
+| Exploring other cloud providers | [Google Cloud Platform](../paths/cloud-engineering/google-cloud-platform/README.md) or [AWS](../paths/cloud-engineering/aws/README.md) | Available |
 
 Not sure? Start with the path that has the most material, then switch anytime.

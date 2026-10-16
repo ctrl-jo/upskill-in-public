@@ -16,13 +16,13 @@ Students and self-learners exploring software development, cloud engineering, an
 
 1. Read [Getting Started](GETTING-STARTED.md) to get your own copy. A repository, or repo, is a folder of files hosted on GitHub.
 2. Pick one learning path in the [path index](paths/README.md).
-3. Use the [templates](templates/README.md) and your [my-learning folder](my-learning/README.md) to track and share your progress.
+3. Use the [templates](templates/README.md) and your [my-learning folder](my-learning/README.md) to track your progress. When you are ready to showcase it, make your copy **Public** and share its link using [Make your progress visible](GETTING-STARTED.md#make-your-progress-visible). Private practice counts too.
 
 ## What's inside
 
 | Folder | What it contains |
 | --- | --- |
-| [.github/](.github/) | The form for suggesting a new path. |
+| [.github/](.github/) | Forms for suggesting a path and optionally sharing your journey. |
 | [start-here/](start-here/) | Help choosing a path, planning study time, and sharing progress. |
 | [my-learning/](my-learning/) | Your own notes, logs, and projects in your copy. |
 | [paths/](paths/) | Learning guides, roadmaps, and example folders. |
@@ -46,6 +46,8 @@ This kit will be updated regularly with new paths, following foundations, checkp
 1. Open this repository's [Issues page](https://github.com/ctrl-jo/upskill-in-public/issues).
 2. Select **New issue**, then **Suggest a path** (and **Get started** if shown).
 3. Fill in the fields and select **Submit new issue**. A GitHub account is needed to send a suggestion.
+
+4. Optionally, share your own journey: select **New issue** on the same Issues page, choose **Share my journey**, and fill in the [journey template](.github/ISSUE_TEMPLATE/share-my-journey.md). Read its public-sharing consent checkbox before submitting.
 
 ## Thank you
 

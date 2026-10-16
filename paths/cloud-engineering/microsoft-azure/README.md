@@ -10,7 +10,7 @@ Beginners exploring cloud services or the optional AZ-900 certification exam.
 
 ## How to use this folder
 
-1. Read [roadmap.md](roadmap.md). A roadmap is a suggested order of topics; Planned routes may only have a preview.
+1. Read [roadmap.md](roadmap.md). A roadmap is a suggested order of topics. Start with the foundations, use the checkpoints, then choose one direction.
 2. Open [resources.md](resources.md) and pick one free resource. Paid services or exams are not required to start.
 3. Take your own notes in [my-learning](../../../my-learning/README.md).
 4. Build one small project from what you learned. A cloud project can be a written design with a diagram; no paid account is needed.
@@ -28,3 +28,5 @@ Beginners exploring cloud services or the optional AZ-900 certification exam.
 ## Status
 
 Available
+
+Detailed role-based certification roadmaps and guided advanced projects are Planned — Coming soon.

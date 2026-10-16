@@ -2,15 +2,15 @@
 
 ## What this path is
 
-Amazon Web Services (AWS) provides computing and storage services over the internet. This folder will provide a beginner route for learning its services.
+Amazon Web Services (AWS) provides computing and storage services over the internet. This route starts with AWS Certified Cloud Practitioner (CLF-C02) fundamentals and leads to a small project and a future role direction.
 
 ## Who it is for
 
-Students exploring a first cloud provider; the guided route is still being prepared.
+Beginners exploring a first cloud provider. Certification exams are optional; later role-based certification roadmaps are Planned — Coming soon.
 
 ## How to use this folder
 
-1. Read [roadmap.md](roadmap.md). A roadmap is a suggested order of topics; Planned routes may only have a preview.
+1. Read [roadmap.md](roadmap.md). A roadmap is a suggested order of topics. Start with the foundations, use the checkpoints, then choose one direction.
 2. Open [resources.md](resources.md) and pick one free resource. Paid services or exams are not required to start.
 3. Take your own notes in [my-learning](../../../my-learning/README.md).
 4. Build one small project from what you learned. A cloud project can be a written design with a diagram; no paid account is needed.
@@ -26,4 +26,6 @@ Students exploring a first cloud provider; the guided route is still being prepa
 
 ## Status
 
-Planned
+Available
+
+The fundamentals roadmap is ready. Detailed role-focused projects and role-based certification roadmaps are Planned — Coming soon.

@@ -2,7 +2,7 @@
 
 ## What this path is
 
-Web development means making websites and tools that run in a browser. This route starts with page structure and appearance, then adds interaction with JavaScript.
+Web development means making websites and tools that run in a browser. This route starts with page structure and appearance, then adds interaction with JavaScript before branching into frontend, backend, or full-stack practice.
 
 ## Who it is for
 
@@ -10,10 +10,10 @@ Beginners who want to make web pages and small interactive projects.
 
 ## How to use this folder
 
-1. Read [roadmap.md](roadmap.md). A roadmap is a suggested order of topics; Planned routes may only have a preview.
+1. Read [roadmap.md](roadmap.md). A roadmap is a suggested order of topics. Start with the foundations, use the checkpoints, then choose one direction.
 2. Open [resources.md](resources.md) and pick one free resource. Paid services or exams are not required to start.
 3. Take your own notes in [my-learning](../../../my-learning/README.md).
-4. Build one small project from what you learned. A cloud project can be a written design with a diagram; no paid account is needed.
+4. Build one small project from what you learned. Start with the small project for your chosen direction; online publishing is optional.
 5. Share what you learned when you feel ready, using the [sharing guide](../../../start-here/how-to-learn-in-public.md).
 
 ## Folder contents

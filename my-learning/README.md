@@ -38,3 +38,26 @@ my-learning/
 1. On your computer, create `daily-logs`, `notes`, and `projects` folders inside `my-learning` using your file manager's **New folder** action.
 2. On GitHub, create a file with a name such as `daily-logs/2026-10-16-daily-log.md` while inside `my-learning`. The slash creates the folder when you save the file.
 3. Copy the progress tracker template into `my-learning` and name it `progress-tracker.md`.
+
+4. For a project on GitHub, open `my-learning`, select **Add file**, then **Create new file**, and enter `projects/my-first-project/README.md`. Copy the [mini-project template](../templates/mini-project.md) into it, fill in your own explanation, and select **Commit changes**. On your computer, create the same folders and save the file there. Replace `my-first-project` with your project's name.
+
+## Public proof checklist
+
+This is an optional guide for when you want to showcase your learning, not a deadline. You can build it up one small step at a time. Sharing is optional and private practice counts; a Public repository is the way to make your work visible when you are ready.
+
+1. [ ] My repository is **Public**.
+2. [ ] I have at least one dated daily log in `my-learning/`.
+3. [ ] I update `my-learning/progress-tracker.md` weekly while I am studying.
+4. [ ] I have one project folder in `my-learning/projects/` with a `README.md` explaining what I made and how to try it.
+5. [ ] I have shared my own repository link somewhere, such as a bio or post.
+6. [ ] I have added the topic `upskill-in-public` to my repository.
+
+The linked guides provide the setup steps:
+
+1. Follow [Make your progress visible](../GETTING-STARTED.md#make-your-progress-visible) for the Public setting, commit history, sharing, and profile pinning.
+2. Follow [Add the repository topic](../start-here/how-to-learn-in-public.md#add-the-repository-topic) to add `upskill-in-public` using the gear beside **About** on your own repository.
+
+## Before you make this public
+
+1. Remove passwords, access keys, and personal details from notes, code, and screenshots before saving them publicly.
+2. Check earlier commits too: deleting a detail from today's file does not remove it from the saved history. If a real password or key was saved, replace or revoke it and resolve the history exposure before making the repository Public.

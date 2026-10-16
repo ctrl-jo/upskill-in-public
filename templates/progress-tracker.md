@@ -8,6 +8,14 @@ Start date: [YYYY-MM-DD]
 
 Weekly study time: [Hours or minutes]
 
+## Links
+
+My repository link: [My own GitHub repository URL]
+
+My best project link: [Link to my project folder or demonstration]
+
+Where I share my progress: [Profile or post link; leave blank until ready]
+
 ## Checkpoints
 
 | Checkpoint | Status (Not started / In progress / Done) | Evidence (note or project filename) | Date |

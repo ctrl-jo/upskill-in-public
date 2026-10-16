@@ -12,7 +12,8 @@ A template makes an independent copy that belongs to you.
 4. Choose **Public** if you want to showcase your learning. Anyone can then see your notes and your progress history. Choose **Private** only if you want to practice first. You can change this later in Settings. Leave **Include all branches** unchecked if shown.
 5. Select **Create repository**. Wait for your new repository to open.
 6. Check that your username and repository name appear above the files. Bookmark this page. If you leave it, open your GitHub profile, select **Repositories**, then open `my-upskill-journey`.
-7. Continue with **Your first 30 minutes** below. You can write your first log entirely on GitHub; no installation is needed.
+7. In your own copy, open the root `README.md` and select the pencil icon (**Edit this file**). Replace its title and the opening text through **Why this exists**, including the TikTok screenshot line, with your own introduction, chosen path, and learning goal. For example: “I'm Alex, learning web development. My first goal is to build a study checklist.” Select **Commit changes**, then confirm the save.
+8. Continue with **Your first 30 minutes** below. You can write your first log entirely on GitHub; no installation is needed.
 
 ### Change visibility later
 

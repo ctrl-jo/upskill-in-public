@@ -1,6 +1,8 @@
 # Learning paths
 
-A path is a suggested learning route. Available paths have a usable starting roadmap and resource links. Planned paths are not complete yet.
+A path is a suggested learning route, not a full course. **Available** means a usable starting roadmap and resource links exist; it does not mean a complete set of lessons or projects. **Planned** means the starting route is not ready yet.
+
+Web development and Azure have the most supporting material in this kit. Mobile development, AWS, and Google Cloud provide lighter starting guides. Shared example projects and deeper role-focused material are still being added.
 
 | Path | Folder | Status |
 | --- | --- | --- |

@@ -31,6 +31,8 @@ Students and self-learners exploring software development, cloud engineering, an
 
 ## Available paths
 
+These paths are starting points, not full courses. **Available** means a usable roadmap and resource links are ready. Web development and Azure have the most supporting material; mobile development, AWS, and Google Cloud offer lighter starting guides. Example projects and deeper role-focused material are still growing.
+
 | Path | Status and details |
 | --- | --- |
 | Web development: foundations, frontend, backend | Available — [path index](paths/README.md) |

@@ -41,7 +41,7 @@ Yes. The kit is under the [MIT license](LICENSE). Your school's rules still appl
 
 ## What do the Available and Planned labels mean?
 
-**Available** means a usable starting roadmap and resource links exist. It does not mean every example project is finished. **Planned** means introductory material or placeholders exist, but the full learning route is not ready.
+**Available** means a usable starting roadmap and resource links exist. It does not mean a full course or a complete set of lessons and projects. Web development and Azure have the most supporting material; mobile development, AWS, and Google Cloud provide lighter starting guides. **Planned** means introductory material or placeholders exist, but the starting route is not ready.
 
 ## Why are some folders empty or marked Coming soon?
 
